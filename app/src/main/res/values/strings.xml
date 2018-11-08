@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="make_a_notification">Make a notification</string>
+</resources>
